@@ -3,7 +3,7 @@ Welcome to my GitHub Profile!
 My name is Henrik and I am a 2nd year CS Student at the University of Toronto Mississauga.
 Originally from Germany, I study in Canada as an International Scholar Award recipient.
 
-## What I kow
+## What I know
 
 ### Main Languages
 
