@@ -13,7 +13,7 @@ Java, Python, C/C++, JavaScript/TypeScript
 
 ### Main Frameworks and Libraries
 
-NodeJS, ReactJS, ReduxJS, Fastify
+NodeJS, ReactJS, React Native, ReduxJS, NextJS, Fastify, TailwindCSS
 
 
 ## My Rules
