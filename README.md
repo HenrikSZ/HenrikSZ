@@ -1,7 +1,8 @@
 Welcome to my GitHub Profile!
 
-My name is Henrik and I am a 2nd year CS Student at the University of Toronto Mississauga.
-Originally from Germany, I study in Canada as an International Scholar Award recipient.
+My name is Henrik and I am a 2nd year CS Student at the University of Toronto Mississauga (UTM).
+Originally from Germany, I study in Canada as an International Scholar Award recipient. I am
+also Teaching Assisstant for CSC148 (Intro to CS) at UTM.
 
 ## What I know
 
@@ -24,7 +25,7 @@ NodeJS, ReactJS, ReduxJS, Fastify
 
 - Finish 2nd year so that people finally acknowledge my work ;)
 - Intern in web dev, applications, or embedded (almost anything is interesting tbh)
-- Empower peers to get awesome at CS, Math and Economics by becoming a Teaching Assistant
+- Empower peers to get awesome at CS, Math and Economics by becoming a Teaching Assistant [Doing that!]
 
 
 ## My Story
@@ -38,10 +39,10 @@ wanted to build a cheap controller. We designed simple circuits and tied it all 
 first, but soon switched to an ATMega1284p micro controller. I still have fragments of the C code here on GitHub.
 
 After that I branched out in many directions. I did a bunch of web dev and admin tasks. Projects such as
-planets2D, BluffServer and NodeDynDNS are also some of my earlier works. BasicCRUDApp, HufmannEncoding and#
+planets2D, BluffServer and NodeDynDNS are also some of my earlier works. BasicCRUDApp, HuffmanEncoding and
 no-pain are more recent projects which I organized better.
 
-During all this, I had the opportunity to work with Virtual Forge, nowadays a daughter company of
+During all this, I had the opportunity to work with Virtual Forge, today a subsidiary of
 SAP system Cybersecurity company Onapsis. There I could earn valuable experience on developing on
 a commercial product, and having a tool verified and included in their CodeProfiler for HANA product.
 
