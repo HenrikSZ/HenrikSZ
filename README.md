@@ -2,7 +2,8 @@ Welcome to my GitHub Profile!
 
 My name is Henrik and I am a 2nd year CS Student at the University of Toronto Mississauga (UTM).
 Originally from Germany, I study in Canada as an International Scholar Award recipient. I am
-also Teaching Assisstant for CSC148 (Intro to CS) at UTM.
+a Teaching Assisstant for CSC148 (Intro to CS) at UTM and work student in Team Alphawit, a healthcare
+startup in the UofT Hatchery Incubator.
 
 ## What I know
 
@@ -15,6 +16,12 @@ Java, Python, C/C++, JavaScript/TypeScript
 NodeJS, ReactJS, ReduxJS, Fastify
 
 
+## My Rules
+
+- Teaching Assistant for CSC148 (Intro to CS) at UTM
+- React Native development lead in Team Alphawit at the UofT Hatchery
+
+
 ## What I am currently working on
 
 - [no-pain](https://github.com/HenrikSZ/no-pain) (documentation is a pain right now)
@@ -25,7 +32,6 @@ NodeJS, ReactJS, ReduxJS, Fastify
 
 - Finish 2nd year so that people finally acknowledge my work ;)
 - Intern in web dev, applications, or embedded (almost anything is interesting tbh)
-- Empower peers to get awesome at CS, Math and Economics by becoming a Teaching Assistant [Doing that!]
 
 
 ## My Story
