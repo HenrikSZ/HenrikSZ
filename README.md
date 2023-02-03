@@ -16,13 +16,13 @@ Java, Python, C/C++, JavaScript/TypeScript
 NodeJS, ReactJS, React Native, ReduxJS, NextJS, Fastify, TailwindCSS
 
 
-## My Rules
+## Where I work
 
 - Teaching Assistant for CSC148 (Intro to CS) at UTM
 - React Native development lead in Team Alphawit at the UofT Hatchery
 
 
-## What I am currently working on
+## Working on this in my freetime
 
 - [no-pain](https://github.com/HenrikSZ/no-pain) (documentation is a pain right now)
 - [BasicCrudApp](https://github.com/HenrikSZ/BasicCRUDApp) (when I find time)
@@ -30,7 +30,6 @@ NodeJS, ReactJS, React Native, ReduxJS, NextJS, Fastify, TailwindCSS
 
 ## What I want to do in the future
 
-- Finish 2nd year so that people finally acknowledge my work ;)
 - Intern in web dev, applications, or embedded (almost anything is interesting tbh)
 
 
@@ -51,6 +50,9 @@ no-pain are more recent projects which I organized better.
 During all this, I had the opportunity to work with Virtual Forge, today a subsidiary of
 SAP system Cybersecurity company Onapsis. There I could earn valuable experience on developing on
 a commercial product, and having a tool verified and included in their CodeProfiler for HANA product.
+
+Currently, I am working with healthcare startup Team Alphawit on an app for Speech-Language Pathology.
+It is aimed at assisting therapy for people with brain injuries, for example after a stroke.
 
 Besides uni, I continue working on my projects, participating in Hackathons and doing coding
 challenges like AdventOfCode.
