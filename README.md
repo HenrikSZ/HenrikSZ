@@ -24,8 +24,7 @@ NodeJS, ReactJS, React Native, ReduxJS, NextJS, Fastify, TailwindCSS
 
 ## Working on this in my freetime
 
-- [no-pain](https://github.com/HenrikSZ/no-pain) (documentation is a pain right now)
-- [BasicCrudApp](https://github.com/HenrikSZ/BasicCRUDApp) (when I find time)
+- [henriksz.github.io](https://github.com/HenrikSZ/henriksz.github.io) My personal website. Find the result [here](henriksz.github.io).
 
 
 ## What I want to do in the future
