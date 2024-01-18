@@ -1,8 +1,8 @@
 Welcome to my GitHub Profile!
 
-My name is Henrik and I am a 2nd year CS Student at the University of Toronto Mississauga (UTM).
-Originally from Germany, I study in Canada as an International Scholar Award recipient. I am a
-research student at the University Health Network (UHN) and help out in the iGEM Toronto Wiki Team.
+My name is Henrik and I am a 3rd year CS Student at the University of Toronto Mississauga (UTM).
+Originally from Germany, I study in Canada as an International Scholar Award recipient. I am a teaching
+assistant at UTM and lead the wiki team at [iGEM Toronto](https://igem-toronto.github.io).
 
 ## What I know
 
@@ -17,18 +17,13 @@ NodeJS, ReactJS, React Native, ReduxJS, NextJS, Fastify, TailwindCSS
 
 ## Where I work
 
-- Intelligent Assistive Technology and Systems Lab (IATSL), KITE Research Department, University Health Network
 - iGEM Toronto Wiki Team
+- University of Toronto Mississauga
 
 
 ## Working on this in my free time
 
 - [henriksz.github.io](https://github.com/HenrikSZ/henriksz.github.io) My personal website. Find the result [here](https://henriksz.github.io).
-
-
-## What I want to do in the future
-
-- Intern in web dev, applications, or embedded (almost anything is interesting tbh)
 
 
 ## My Story
@@ -42,15 +37,15 @@ wanted to build a cheap controller. We designed simple circuits and tied it all 
 first, but soon switched to an ATMega1284p microcontroller. I still have fragments of the C code here on GitHub.
 
 After that, I branched out in many directions. I did a bunch of web dev and admin tasks. Projects such as
-planets2D, BluffServer, and NodeDynDNS are also some of my earlier works. BasicCRUDApp, HuffmanEncoding and
-no-pain are more recent projects which I organized better.
+planets2D, BluffServer, and NodeDynDNS are also some of my earlier works. BasicCRUDApp, HuffmanEncoding, and
+no-pain are more recent projects that I organized better.
 
 During all this, I had the opportunity to work with Virtual Forge, today a subsidiary of
 SAP system Cybersecurity company Onapsis. There I could earn valuable experience in developing
 a commercial product.
 
-Currently, I am working at the University Health Network as a research student developing a framework
-for gamified stroke rehabilitation.
+Currently, I am leading the wiki development team for iGEM Toronto and work as a teaching assistant
+at UofT.
 
 Besides uni, I continue working on my projects and participating in coding
 challenges like AdventOfCode.
